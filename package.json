@@ -1,0 +1,15 @@
+{
+  "name": "ReadME Generator",
+  "version": "1.0.0",
+  "description": "In this activity, you will build a command-line tool that generates a ReadME file from user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  }
+}
