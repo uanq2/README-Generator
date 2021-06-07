@@ -1,15 +1,20 @@
 {
-  "name": "ReadME Generator",
+  "name": "README-Generator",
   "version": "1.0.0",
-  "description": "In this activity, you will build a command-line tool that generates a ReadME file from user input.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uanq2/README-Generator.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "inquirer": "^8.1.0"
-  }
+  "bugs": {
+    "url": "https://github.com/uanq2/README-Generator/issues"
+  },
+  "homepage": "https://github.com/uanq2/README-Generator#readme"
 }
