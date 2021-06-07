@@ -1,7 +1,7 @@
-# s
+# READ ME Generator
 
 ## Description
-s
+Create an app that allows me to generate a professional READ ME file
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -12,19 +12,19 @@ s
 * [Questions](#Questions)
 
 ## Installation
-s
+Have inquirer installed as well as node and run it in the terminal
     
 ## Usage
-s
+Yes
 
 ## License
 MIT
 
 ## Contributing
-s
+Anyone developer is welcome to contribute to this project
 
 ## Tests
-s
+No required tests at all
 
 ## Questions
-If you have any questions please contact me via GitHub at s] or via email at s.
+If you have any questions please contact me via GitHub at uanq2] or via email at uanq22@hotmail.com.
