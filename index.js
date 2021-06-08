@@ -31,7 +31,7 @@ ${answers.contributing}
 ${answers.tests}
 
 ## Questions
-If you have any questions please contact me via GitHub at ${answers.github}] or via email at ${answers.email}.`
+If you have any questions please contact me via GitHub at ${answers.github} or via email at ${answers.email}.`
 };
 
 inquirer
