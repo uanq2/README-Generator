@@ -1,7 +1,7 @@
-# READ ME Generator
+# Team Profile Generator
 
 ## Description
-Create an app that allows me to generate a professional READ ME file
+This project was done during class, with code written by the instructor
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -12,19 +12,19 @@ Create an app that allows me to generate a professional READ ME file
 * [Questions](#Questions)
 
 ## Installation
-Have inquirer installed as well as node and run it in the terminal
+The application uses Jest for running the unit tests and Inquirer for collecting input from the user.
     
 ## Usage
-Yes
+The application will be invoked by using the following command node index.js
 
 ## License
 MIT
 
 ## Contributing
-Anyone developer is welcome to contribute to this project
+Open project for any developer to contribute to this project
 
 ## Tests
-No required tests at all
+It does need Jest for running the unit test
 
 ## Questions
-If you have any questions please contact me via GitHub at uanq2] or via email at uanq22@hotmail.com.
+If you have any questions please contact me via GitHub at uanq2 or via email at uanq22@hotmail.com.
